@@ -1,2 +1,4 @@
 # BlackJack_Game
 This is a BlackJack game for 1 player against computer. The goal of the game is go get as close to 21 as possible without going over (Bust). You will play against the computer which initially deals two cards to both the player and itself. The computer will hide one of his cards and show the rest while the player has to show both cards. The player has both options to hit (take an additional card) or stay (stop). If the player goes above 21 while hitting, the game is over against his favor. Once the player decided to stay, the coputer will take a hit unitl it beats the player withiout hitting after SumofCards ==17. If that cannot be achieved, the winner is the player and they win 1.5 times the money they put it. 
+
+This was a project I was able to achieve while completing my bootcamp from Udemy taught by Jose Portilla ("The Complete Python Bootcamp From Zero to Hero")
